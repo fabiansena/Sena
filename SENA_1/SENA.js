@@ -1,2 +1,2 @@
-const nombre = SENA;
-console.log(nombre);
+let apellido = "Otro Apellido";
+console.log(apellido);
