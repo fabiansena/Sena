@@ -1,2 +1,2 @@
-let nombre = SENA;
-console.log(nombre);
+let apellido = SENA;
+console.log(apellido);
