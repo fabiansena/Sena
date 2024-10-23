@@ -1,2 +1,2 @@
-let nombre = SENA;
+const nombre = SENA;
 console.log(nombre);
