@@ -1,2 +1,2 @@
-let apellido = SENA;
+let apellido = "Nuevo Apellido";
 console.log(apellido);
